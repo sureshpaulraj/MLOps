@@ -1,6 +1,6 @@
 # For parameter details refer to the cli spec: https://docs.microsoft.com/en-us/cli/azure/ext/azure-cli-ml/ml/computetarget/create?view=azure-cli-latest#ext-azure-cli-ml-az-ml-computetarget-create-amlcompute
   rm-service-connection: #Service connection for resource manager
-  print-cli-string: true #Print the constructed CLI
+  print-cli-string: true
   max-nodes:2
   name:amlcomputedevops
   vm-size:Standard_D12_v2
